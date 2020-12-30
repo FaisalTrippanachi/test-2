@@ -1,0 +1,20 @@
+.input {
+    width: 300px;
+    height: 35px;
+    border-radius: 7px;
+    border: 1px solid red;
+}
+
+.button {
+    width: 300px;
+    height: 35px;
+    border-radius: 7px;
+    border: 1px solid red;
+    background-color: red;
+    text-transform: uppercase;
+    color: white;
+}
+
+table {
+    background-image: url("../s7.jpg");
+}
